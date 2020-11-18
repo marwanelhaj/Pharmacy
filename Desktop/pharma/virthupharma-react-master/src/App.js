@@ -1,5 +1,5 @@
 import React, { useContext, useEffect } from 'react';
-import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
+import { HashRouter, Route, Switch, Redirect } from "react-router-dom";
 import Blog from './Component/Blog/Blog';
 import ContactUs from './Component/ContactUs/ContactUs';
 import Footer from './Component/Footer/Footer';
@@ -28,7 +28,7 @@ function App() {
   const { isLogin } = useContext(VirtualPharmaContext);
 
   return (
-    <BrowserRouter>
+    <HashRouter>
       <ScrollToTop>
         <Header />
         <Switch>
@@ -110,7 +110,7 @@ function App() {
         </Switch>
         <Footer />
       </ScrollToTop>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
