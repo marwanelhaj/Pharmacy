@@ -1,0 +1,18 @@
+header {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .06);
+    z-index: 1;
+}
+
+main {
+    border-bottom: 15px solid #240f62;
+}
+
+.upload-img.image-upload{
+    height: 8px;
+}
+
+@media (max-width: 767px) {
+    footer {
+        margin-bottom: 42px;
+    }
+}
