@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97ac704ab590de38bdc9d1cdab81c23d",
+    "revision": "bf73fe4a049bcb7fb825a8d163573452",
     "url": "/Pharmacy/index.html"
   },
   {
-    "revision": "b58f288ff3a1a2dcbec6",
+    "revision": "07ca417d8f97df473f27",
     "url": "/Pharmacy/static/css/2.589e1136.chunk.css"
   },
   {
-    "revision": "b7ab653bedf62d5bfa9e",
+    "revision": "c6f9de0e2f3b6fb27994",
     "url": "/Pharmacy/static/css/main.4bd90883.chunk.css"
   },
   {
-    "revision": "b58f288ff3a1a2dcbec6",
-    "url": "/Pharmacy/static/js/2.77c58773.chunk.js"
+    "revision": "07ca417d8f97df473f27",
+    "url": "/Pharmacy/static/js/2.f20772ad.chunk.js"
   },
   {
     "revision": "66bf4758db04c3a7f24ce071c6127a88",
-    "url": "/Pharmacy/static/js/2.77c58773.chunk.js.LICENSE.txt"
+    "url": "/Pharmacy/static/js/2.f20772ad.chunk.js.LICENSE.txt"
   },
   {
     "revision": "9935b914ec113bad164d",
     "url": "/Pharmacy/static/js/3.8c57631a.chunk.js"
   },
   {
-    "revision": "b7ab653bedf62d5bfa9e",
-    "url": "/Pharmacy/static/js/main.e640b675.chunk.js"
+    "revision": "c6f9de0e2f3b6fb27994",
+    "url": "/Pharmacy/static/js/main.95d1863f.chunk.js"
   },
   {
     "revision": "10fd87ae67ee26bf34f2",

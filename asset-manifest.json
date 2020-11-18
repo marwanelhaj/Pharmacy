@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Pharmacy/static/css/main.4bd90883.chunk.css",
-    "main.js": "/Pharmacy/static/js/main.e640b675.chunk.js",
-    "main.js.map": "/Pharmacy/static/js/main.e640b675.chunk.js.map",
+    "main.js": "/Pharmacy/static/js/main.95d1863f.chunk.js",
+    "main.js.map": "/Pharmacy/static/js/main.95d1863f.chunk.js.map",
     "runtime-main.js": "/Pharmacy/static/js/runtime-main.ae807304.js",
     "runtime-main.js.map": "/Pharmacy/static/js/runtime-main.ae807304.js.map",
     "static/css/2.589e1136.chunk.css": "/Pharmacy/static/css/2.589e1136.chunk.css",
-    "static/js/2.77c58773.chunk.js": "/Pharmacy/static/js/2.77c58773.chunk.js",
-    "static/js/2.77c58773.chunk.js.map": "/Pharmacy/static/js/2.77c58773.chunk.js.map",
+    "static/js/2.f20772ad.chunk.js": "/Pharmacy/static/js/2.f20772ad.chunk.js",
+    "static/js/2.f20772ad.chunk.js.map": "/Pharmacy/static/js/2.f20772ad.chunk.js.map",
     "static/js/3.8c57631a.chunk.js": "/Pharmacy/static/js/3.8c57631a.chunk.js",
     "static/js/3.8c57631a.chunk.js.map": "/Pharmacy/static/js/3.8c57631a.chunk.js.map",
     "index.html": "/Pharmacy/index.html",
-    "precache-manifest.ecc22e81350e32888276648a1b3fdcd8.js": "/Pharmacy/precache-manifest.ecc22e81350e32888276648a1b3fdcd8.js",
+    "precache-manifest.3074cba206ccd7b2d6c8a95c14494f89.js": "/Pharmacy/precache-manifest.3074cba206ccd7b2d6c8a95c14494f89.js",
     "service-worker.js": "/Pharmacy/service-worker.js",
     "static/css/2.589e1136.chunk.css.map": "/Pharmacy/static/css/2.589e1136.chunk.css.map",
     "static/css/main.4bd90883.chunk.css.map": "/Pharmacy/static/css/main.4bd90883.chunk.css.map",
-    "static/js/2.77c58773.chunk.js.LICENSE.txt": "/Pharmacy/static/js/2.77c58773.chunk.js.LICENSE.txt",
+    "static/js/2.f20772ad.chunk.js.LICENSE.txt": "/Pharmacy/static/js/2.f20772ad.chunk.js.LICENSE.txt",
     "static/media/attach.svg": "/Pharmacy/static/media/attach.6889e5ae.svg",
     "static/media/Section.css": "/Pharmacy/static/media/overly-bg.881acc84.png",
     "static/media/delete.svg": "/Pharmacy/static/media/delete.ed3ad8f0.svg",
@@ -30,8 +30,8 @@
   "entrypoints": [
     "static/js/runtime-main.ae807304.js",
     "static/css/2.589e1136.chunk.css",
-    "static/js/2.77c58773.chunk.js",
+    "static/js/2.f20772ad.chunk.js",
     "static/css/main.4bd90883.chunk.css",
-    "static/js/main.e640b675.chunk.js"
+    "static/js/main.95d1863f.chunk.js"
   ]
 }
